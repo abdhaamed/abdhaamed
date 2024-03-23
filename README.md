@@ -2,7 +2,7 @@
 
 
 
-**Regards!** Welcome to the ✨_Artcods/Artcods_✨ repository. This is a place where we explore a wide variety of art codes, creative experiments, and interesting projects. We are excited to share our work with you and involve you in our journey in the world of creativity and technology.
+**Regards!** Welcome to the ✨*Artcods/Artcods*✨ repository. This is a place where we explore a wide variety of art codes, creative experiments, and interesting projects. We are excited to share our work with you and involve you in our journey in the world of creativity and technology.
 
 Feel free to explore this repository, contribute, or provide feedback. We believe that collaboration and new ideas are the key to continued growth and innovation.
 
