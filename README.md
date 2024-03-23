@@ -1,6 +1,6 @@
-<center>
-  # Hi there 👋
-</center>
+<div style="text-align:center;">
+  <h1>Hi there 👋</h1>
+</div>
 
 
 **Regards!** Welcome to the ✨_Artcods/Artcods_✨ repository. This is a place where we explore a wide variety of art codes, creative experiments, and interesting projects. We are excited to share our work with you and involve you in our journey in the world of creativity and technology.
