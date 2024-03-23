@@ -12,13 +12,11 @@ Let's be creative together!
 Warm regards, Artcods 🤗
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I am Currently focusing on the Go language
+- 🌱 I’m currently learning data analysis
 - 📫 How to reach me: abdurrahmanhamid@outlook.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Lazy
 
 
 ## 🌐 Socials:
