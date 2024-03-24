@@ -25,8 +25,8 @@ Warm regards, Artcods 🤗
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Artcods&theme=nightowl&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Artcods&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Artcods&theme=&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artcods)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Artcods&limit=5&theme=dark&combine_all_yearly_contributions=true)
