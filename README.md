@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋</h1>
-
-
+### Hi there 👋, my name is Hamid
+#### I am a Student
+![I am a Student](https://media.licdn.com/dms/image/D5616AQHAuPf11kCGJA/profile-displaybackgroundimage-shrink_350_1400/0/1711265036800?e=1717027200&v=beta&t=CNwo8nbW7f4OLsqsG3QemUWmhVARSSu90_A3SC7aiKE)
 
 **Regards!** Welcome to the ✨*Artcods/Artcods*✨ repository. This is a place where we explore a wide variety of art codes, creative experiments, and interesting projects. We are excited to share our work with you and involve you in our journey in the world of creativity and technology.
 
@@ -11,12 +11,10 @@ Thank you for joining us at Artcods/Artcods! We hope you find inspiration and en
 Let's be creative together!
 Warm regards, Artcods 🤗
 
-
-- 🔭 I am Currently focusing on the Go language
-- 🌱 I’m currently learning data analysis
-- 📫 How to reach me: abdurrahmanhamid@outlook.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Lazy
+- 🔭 I’m currently working on I am Currently focusing on the Go language 
+- 🌱 I’m currently learning I’m currently learning data analysis 
+- 📫 How to reach me: How to reach me: abdurrahmanhamid@outlook.com 
+- 😄 Pronouns: Pronouns: He/Him 
 
 
 ## 🌐 Socials:
