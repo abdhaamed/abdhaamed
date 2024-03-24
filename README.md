@@ -25,7 +25,6 @@ Warm regards, Artcods 🤗
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Artcods&theme=nightowl&hide_border=true&include_all_commits=true&count)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Artcods&theme=nightowl&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Artcods&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
