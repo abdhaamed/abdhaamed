@@ -1,5 +1,5 @@
 <p align="center">
-  ![giphy](https://github.com/user-attachments/assets/d0db5807-ef80-4f1d-abb0-3badecff4bae)
+  ![Uploading giphy2.gif…]()
 </p>
 
 
