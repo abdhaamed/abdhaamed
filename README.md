@@ -1,6 +1,6 @@
-<p align="center">
-  ![giphy2](https://github.com/user-attachments/assets/8d3f5f77-5d81-4352-bbe5-7c958962c089)
-</p>
+<div align="center">
+  ![giphy2](https://github.com/user-attachments/assets/185602f8-d5b9-4459-a749-ee5e21575634)
+</div>
 
 
 ## Hi there 👋
