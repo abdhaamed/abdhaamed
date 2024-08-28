@@ -1,5 +1,6 @@
-<img src="giphy2.gif" align="right">
-
+<div align="center">
+  <img src="giphy2.gif" align="right">
+</div>
 
 ## Hi there 👋
 
