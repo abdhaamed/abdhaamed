@@ -2,7 +2,7 @@
   <img src="giphy2.gif">
 </div>
 
-## Hi there 👋
+<div align="center"><h1>Hi there 👋</h1></div>
 # Welcome to My GitHub Profile!
 
 **Artcods/Artcods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
