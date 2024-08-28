@@ -1,3 +1,6 @@
+![giphy](https://github.com/user-attachments/assets/d0db5807-ef80-4f1d-abb0-3badecff4bae)
+
+
 ## Hi there 👋
 
 <div style="width:100%;height:0;padding-bottom:58%;position:relative;"><iframe src="https://giphy.com/embed/d1E2VyhFsxawRbeo" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/d1E2VyhFsxawRbeo">via GIPHY</a></p>
