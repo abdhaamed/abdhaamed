@@ -1,4 +1,4 @@
-<img src="giphy2.gif" align="center">
+<img src="giphy2.gif" align="right">
 
 
 ## Hi there 👋
