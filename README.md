@@ -22,12 +22,15 @@ Hi, I'm [Your Name]! I'm a passionate developer with a focus on [Your Specializa
 | <img width="50" height="50" src="line-chart.gif"> | <h2>Stats : </h2> |
 |---|---|
 
-![](https://github-readme-stats.vercel.app/api?username=Hamid&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)
+<!-- 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hamid&theme=transparent&hide_border=true)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamid&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages">
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamid&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+-->
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamid&theme=transparent&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamid&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact">
+</div>
 
 ---
 
