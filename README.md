@@ -1,4 +1,4 @@
-<img src="![giphy2](https://github.com/user-attachments/assets/4659be68-c995-4401-aeb7-e8d4dfcea5a6)" align="center">
+<img src="giphy2.gif" align="center">
 
 
 ## Hi there 👋
