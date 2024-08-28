@@ -12,7 +12,7 @@
 ## About Me
 Hi, I'm [Your Name]! I'm a passionate developer with a focus on [Your Specialization]. 
 
-<div width="200" height="200">
+<div width="20" height="20">
   <img src="computer.gif">
 </div>
 
