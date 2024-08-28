@@ -10,7 +10,7 @@
 ![My Banner](./assets/banner.gif)
 
 ## About Me
-Hi, I'm Abdurrahman Abdul Hamid! I'm a passionate developer with a focus on FullStack Developer.
+Hi, I'm Abdurrahman Abdul Hamid! I'm a passionate developer with a focus on FullStack Development.
 
 #
 
