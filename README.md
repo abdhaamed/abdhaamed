@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="![giphy2](https://github.com/user-attachments/assets/a5f35708-f8a8-4c68-99ce-582223a91c6b)"/>
-</p>
+<img src="![giphy2](https://github.com/user-attachments/assets/4659be68-c995-4401-aeb7-e8d4dfcea5a6).gif" align="center">
 
 
 ## Hi there 👋
