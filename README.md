@@ -10,11 +10,10 @@
 ![My Banner](./assets/banner.gif)
 
 ## About Me
-Hi, I'm [Your Name]! I'm a passionate developer with a focus on [Your Specialization]. 
+Hi, I'm [Your Name]! I'm a passionate developer with a focus on [Your Specialization].
 
-<div width="20" height="20">
-  <img src="computer.gif">
-</div>
+<img width="20" height="20" src="computer.gif">
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hamyiedd/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdurrahman-abdul-hamid-a989a22a2/) 
 
