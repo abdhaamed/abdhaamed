@@ -9,10 +9,10 @@
 
 ![My Banner](./assets/banner.gif)
 
-## About Me
+<h1> About Me </h1>
+
 Hi, I'm Abdurrahman Abdul Hamid! I'm a passionate developer with a focus on FullStack Development.
 
-#
 
 | <img width="50" height="50" src="computer.gif"> | <h2>Tech Stack : </h2> |
 |---|---|
@@ -33,5 +33,3 @@ Hi, I'm Abdurrahman Abdul Hamid! I'm a passionate developer with a focus on Full
 </div>
 
 ---
-
-
