@@ -2,7 +2,7 @@
   <img src="giphy2.gif">
 </div>
 
-<div align="center"><h1>Hi👋, i'm Hamid</h1></div>
+<h1 align="center">Hi👋, i'm Hamid</h1>
 
 <h2 align="center">Welcome to My GitHub Profile!</h2>
 
