@@ -11,7 +11,7 @@
 
 <h1> About Me </h1>
 
-Hi, I'm Abdurrahman Abdul Hamid! I'm a passionate developer with a focus on FullStack Development.
+Hi, I'm Abdurrahman Abdul Hamid! I'm a passionate developer with a focus on Development.
 
 
 | <img width="50" height="50" src="computer.gif"> | <h2>Tech Stack : </h2> |
