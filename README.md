@@ -4,7 +4,7 @@
 
 <div align="center"><h1>Hi👋, i'm Hamid</h1></div>
 
-# Welcome to My GitHub Profile!
+<h1> Welcome to My GitHub Profile!</h1>
 
 
 ![My Banner](./assets/banner.gif)
