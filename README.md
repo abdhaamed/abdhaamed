@@ -2,7 +2,7 @@
   <img src="giphy2.gif" style="border-radius: 10px;">
 </div>
 
-<h1 align="center" style="border-bottom: none;">Hi👋, I'm Hamid</h1>
+<h1 align="center" style="border-bottom: none;">Hi👋, I'm Hamid
 
 ![My Banner](./assets/banner.gif)
 
