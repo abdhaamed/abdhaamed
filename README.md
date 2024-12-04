@@ -58,13 +58,3 @@
 </table>
 
 ---
-
-<!-- Stats Section -->
-<div align="center" style="border: 2px solid #4CAF50; padding: 10px; margin-bottom: 10px; border-radius: 10px;">
-  <h3>📊 Stats</h3>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamid&theme=transparent&hide_border=true" alt="GitHub Streak" style="margin: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamid&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" style="margin: 10px;"/>
-</div>
