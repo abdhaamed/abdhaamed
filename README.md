@@ -8,9 +8,6 @@
 
 
 
-<div align="center" style="border: 2px solid #4CAF50; padding: 10px; margin-bottom: 10px; border-radius: 10px;">
-  <h3>🔥 Skill</h3>
-</div>
 <!-- Centered Programming Languages Section -->
 <table align="center" style="border-collapse: collapse; padding: 10px;">
   <tr align="center">
